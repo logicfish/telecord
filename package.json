@@ -4,6 +4,7 @@
   "description": "Telegram -> discord",
   "main": "app.js",
   "dependencies": {
+    "express": "^4.17.1",
     "telegraf": "^3.38.0"
   },
   "devDependencies": {},
