@@ -1,0 +1,29 @@
+{
+  "name": "telecord",
+  "version": "0.1.0",
+  "description": "Telegram -> discord",
+  "main": "app.js",
+  "dependencies": {
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logicfish/telecord.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "telegram",
+    "discord"
+  ],
+  "author": "Mark Fisher",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/logicfish/telecord/issues"
+  },
+  "homepage": "https://github.com/logicfish/telecord#readme"
+}
